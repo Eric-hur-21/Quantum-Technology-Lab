@@ -1,7 +1,6 @@
 # Quantum Technology Lab
 
-> "Assumptions kill an investigation."
-> - Reacher
+> _"Assumptions kill an investigation." - Reacher_
 
 **EE 400, University of Washington Seattle.** Ten weeks, four quantum technology
 experiments and one self-designed extension.
