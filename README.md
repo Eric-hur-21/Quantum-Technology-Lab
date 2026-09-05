@@ -3,7 +3,7 @@
 > _"Assumptions kill an investigation." - Reacher_
 
 **EE 400, University of Washington Seattle.** Ten weeks, four quantum technology
-experiments and one self-designed extension.
+experiments and one extension.
 
 PHYS 225 gave me quantum mechanics as theory. I took this lab course to see how
 Rabi frequency, quantum key distribution, and entanglement behave on a bench.
