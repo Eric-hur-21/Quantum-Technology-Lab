@@ -25,7 +25,7 @@ back through the analysis with more care than the lab period allowed.
 
 ## Quantum State Control 
 
-The objectives were: 
+The objectives: 
 1. Determine the qubit energy levels
 2. Drive coherent rotations between two qubit levels and measure Rabi frequency and qubit decay time
 3. Experimentally determine the relationship between Rabi frequency and applied MW power
@@ -42,6 +42,9 @@ Pulsed-ODMR narrowed the resonance to 2788 MHz, and Rabi oscillations gave
 **Retrospective:** [full analysis on my site](https://eric-hur-21.github.io)
 
 ## Quantum Entanglement (CHSH Bell Test)
+
+The objective:
+1. Empirically quantify and demonstrate CHSH Bell Test
 
 I learned to operate a quED SPDC source: a half-wave plate setting the pump to
 45°, two Type-I crystals producing polarization-entangled pairs, motorized
