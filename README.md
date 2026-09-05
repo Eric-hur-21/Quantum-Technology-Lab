@@ -38,7 +38,6 @@ amplifier pulling the photoluminescence signal out of noise. Sweeping 2750 to
 Pulsed-ODMR narrowed the resonance to 2788 MHz, and Rabi oscillations gave
 2.22 MHz at -15 dBm and 2.86 MHz at -12 dBm. 
 
-**Report:** [EE 400 Lab 1 (PDF)](./reports/lab1-qubit-control.pdf)
 
 **Retrospective:** [full analysis on my site](https://eric-hur-21.github.io)
 
