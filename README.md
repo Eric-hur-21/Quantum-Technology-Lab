@@ -74,7 +74,7 @@ error rate of 4.30%, 44 mismatched bits, which appear directly as 44 flipped
 pixels in the decrypted image. The key rate came to 23.51% against an ideal 25%.
 The RNG showed a 41.7% bias toward zeros.
 
-<img width="582" height="245" alt="image" src="https://github.com/user-attachments/assets/9fbd5cd1-9602-4a84-bf06-f973dd455192" />
+<img align="center" width="582" height="245" alt="image" src="https://github.com/user-attachments/assets/9fbd5cd1-9602-4a84-bf06-f973dd455192" />
 
 *Reference: [Quantum Computation and Quantum Information by Isaac Chuang and Michael Nielsen
 ](https://www.amazon.com/dp/1107002176?lv=shuf&channelId=500&plpRedirect=mhFallback) page 582* 
