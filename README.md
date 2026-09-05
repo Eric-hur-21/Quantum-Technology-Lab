@@ -1,7 +1,7 @@
 # Quantum Technology Lab
 As part of University of Washington Seattle EE400, I was fortunate to explore the field of quantum technology through hands-on projects. Within 10 weeks, we completed 4 key lab projects. 
 
-My primarily object for the hands-on course was to explore how quantum theories were showcase through experiments. Going into the course, my initial expectation was that quantum phenomenon will be straightforward. However, I learned that real world introduces various uncertainties that blurs the expected outcome. The hands-on approach were testament to identifying and quantifying uncertainties for the experiment for a productive conclusion. 
+PHYS 225 gave me quantum mechanics as theory. I took this lab course to see how concepts like Rabi frequency, quantum key distribution, and entanglement actually behave on a bench. What I did not anticipate was how much of the real work goes into identifying and quantifying uncertainty. That looks obvious in retrospect, but I only learned it by measuring. 
 
 | Experiment | Description |
 | --- | --- |
@@ -11,3 +11,10 @@ My primarily object for the hands-on course was to explore how quantum theories 
 | Tomography and Teleportation | Explore quantum state tomography and teleportation on cloud quantum hardware. |
 
 **Extension:** Quantum State Control, extended into quantum magnetometry.
+
+---
+
+## Quantum Key Distribution (BB84) 
+
+*Reference: [Quantum Computation and Quantum Information by Isaac Chuang and Michael Nielsen
+](https://www.amazon.com/dp/1107002176?lv=shuf&channelId=500&plpRedirect=mhFallback) page 582* 
