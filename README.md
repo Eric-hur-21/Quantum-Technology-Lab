@@ -1,6 +1,8 @@
 # Quantum Technology Lab
 As part of University of Washington Seattle EE400, I was fortunate to explore the field of quantum technology through hands-on projects. Within 10 weeks, we completed 4 key lab projects. 
 
+My primarily object for the hands-on course was to explore how quantum theories were showcase through experiments. Going into the course, my initial expectation was that quantum phenomenon will be straightforward. However, I learned that real world introduces various uncertainties that blurs the expected outcome. The hands-on approach were testament to identifying and quantifying uncertainties for the experiment for a productive conclusion. 
+
 | Experiment | Description |
 | --- | --- |
 | Quantum Key Distribution (BB84) | Implement BB84 and analyze its performance using a single-photon source based on parametric down-conversion. Demonstrates fundamentally secure cryptographic key distribution. |
