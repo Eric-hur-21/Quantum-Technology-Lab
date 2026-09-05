@@ -41,14 +41,26 @@ Pulsed-ODMR narrowed the resonance to 2788 MHz, and Rabi oscillations gave
 
 **Retrospective:** [full analysis on my site](https://eric-hur-21.github.io)
 
+## Quantum Entanglement (CHSH Bell Test)
+
+I learned to operate a quED SPDC source: a half-wave plate setting the pump to
+45°, two Type-I crystals producing polarization-entangled pairs, motorized
+polarizers, and fiber-coupled APDs feeding a coincidence counter. Polarization
+carried the correlation. Fitting the coincidence curves in Python separated the
+two signatures: the unentangled state factorizes as cos²α·cos²β, while the
+entangled state depends only on the angle difference, ½cos²(β−α). CHSH gave
+S = 2.241 ± 0.040 entangled and S = 1.404 ± 0.043 with the half-wave plate
+removed, straddling the classical bound of 2. Uncertainties came from Poisson
+counting statistics propagated through the S calculation.
+
+**Retrospective:** [full analysis on my site](https://eric-hur-21.github.io)
+
 ## Quantum Key Distribution (BB84) 
 
 *Reference: [Quantum Computation and Quantum Information by Isaac Chuang and Michael Nielsen
 ](https://www.amazon.com/dp/1107002176?lv=shuf&channelId=500&plpRedirect=mhFallback) page 582* 
 
 
-
-## Quantum Entanglement
 
 
 
