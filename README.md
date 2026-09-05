@@ -63,6 +63,22 @@ counting statistics propagated through the S calculation.
 *Reference: [Quantum Computation and Quantum Information by Isaac Chuang and Michael Nielsen
 ](https://www.amazon.com/dp/1107002176?lv=shuf&channelId=500&plpRedirect=mhFallback) page 582* 
 
+The objective:
+1. Demonstrate BB88 Quantum key distribution protocol 
+
+I learned to run BB84 end to end on a quED system: a fiber beamsplitter and
+three APDs generating quantum random bits, motorized half-wave plates and
+polarizers encoding them, and quApp's BB84 mode transmitting and measuring.
+Python handled the rest, sifting matched-basis detections into a 1024-bit key
+and XORing it against a 32×32 image. Comparing Alice's and Bob's keys gave a bit
+error rate of 4.30%, 44 mismatched bits, which appear directly as 44 flipped
+pixels in the decrypted image. The key rate came to 23.51% against an ideal 25%.
+The RNG showed a 41.7% bias toward zeros.
+
+**Report:** [EE 400 Lab 3 (PDF)](./reports/lab3-bb84.pdf)
+**Retrospective:** [full analysis on my site](https://eric-hur-21.github.io)
+
+<img width="582" height="245" alt="image" src="https://github.com/user-attachments/assets/9fbd5cd1-9602-4a84-bf06-f973dd455192" />
 
 
 
