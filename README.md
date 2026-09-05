@@ -25,16 +25,18 @@ back through the analysis with more care than the lab period allowed.
 
 ## Quantum State Control 
 
-### Objective 
+The objectives were: 
+1. Determine the qubit energy levels
+2. Drive coherent rotations between two qubit levels and measure Rabi frequency and qubit decay time
+3. Experimentally determine the relationship between Rabi frequency and applied MW power
 
-
-
-
-### Results 
-
-### Takeaway 
-
-
+I learned to drive a full ODMR measurement chain: a SpinCore PulseBlaster
+sequencing TTL pulses to the laser, the MW switch, and the lock-in reference; a
+Windfreak generator setting microwave frequency and power; and an Ametek lock-in
+amplifier pulling the photoluminescence signal out of noise. Sweeping 2750 to
+3000 MHz resolved the eight transitions predicted from the four NV orientations.
+Pulsed-ODMR narrowed the resonance to 2788 MHz, and Rabi oscillations gave
+2.22 MHz at -15 dBm and 2.86 MHz at -12 dBm. 
 
 ## Quantum Key Distribution (BB84) 
 
