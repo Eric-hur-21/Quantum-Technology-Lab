@@ -82,12 +82,19 @@ The RNG showed a 41.7% bias toward zeros.
 **Retrospective:** [full analysis on my site](https://eric-hur-21.github.io)
 
 
-
-
-
-
 ## Tomography and Teleportation 
 
+I learned to work inside IBM's Qiskit stack: building the three-qubit
+teleportation circuit, transpiling it through a preset pass manager, and running
+it on three backends, the ideal AerSimulator, the FakeSherbrooke noise model,
+and the real ibm_sherbrooke QPU. Swap gates moved Bob's qubit up to ten
+positions away to stand in for distance. State tomography reconstructed both
+density matrices from ⟨X⟩, ⟨Y⟩ and ⟨Z⟩ over 10,000 shots per basis, and state
+fidelity scored the transfer. Fidelity held at 1.000 in simulation, swung
+between 0.95 and 0.25 under the noise model, and between 0.76 and 0.30 on
+hardware.
+
+**Retrospective:** [full analysis on my site](https://eric-hur-21.github.io)
 
 ---
 
